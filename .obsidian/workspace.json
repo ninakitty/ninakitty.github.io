@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "互联网的记忆.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "互联网的记忆.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "互联网的记忆.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "互联网的记忆.md"
+                "file": "index.md"
               }
             }
           }
@@ -145,6 +145,6 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "5571861ca744c818",
+  "active": "11989b58d3f6e9a4",
   "lastOpenFiles": []
 }
