@@ -1,0 +1,150 @@
+{
+  "main": {
+    "id": "6a4d4a982497faa9",
+    "type": "split",
+    "children": [
+      {
+        "id": "5f1be9d1b4f5e45b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5571861ca744c818",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "互联网的记忆.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "52c224f4b4d8349b",
+    "type": "split",
+    "children": [
+      {
+        "id": "c99ec201285c5ae5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "11989b58d3f6e9a4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ccfacbcd958e5e29",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b82e42ad6d146a21",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "24d4598c674e6b43",
+    "type": "split",
+    "children": [
+      {
+        "id": "f4ef1dd1f8c4e18b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e0cf47e5056d7503",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "互联网的记忆.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5a96cf9847fd705e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "互联网的记忆.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dcdf67aee27aa3c4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "38065fcb9b66c47c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "互联网的记忆.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "5571861ca744c818",
+  "lastOpenFiles": []
+}
